@@ -1,1 +1,1 @@
-empty
+{"code":"200","apiDomain":"bC/FabFJi18vdHIrPQRp5Kbl4iHXmzpZH8VIqn1Pkck="}
